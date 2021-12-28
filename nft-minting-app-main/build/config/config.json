@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x75a9fa530dedb5cd8156437eee0bc10e27a0b57e",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x75a9fa530dedb5cd8156437eee0bc10e27a0b57e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Kinstant",
+  "SYMBOL": "KINNFT",
+  "MAX_SUPPLY": 33,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kinstant",
+  "SHOW_BACKGROUND": true
+}
